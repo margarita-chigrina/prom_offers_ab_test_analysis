@@ -9,3 +9,5 @@ Project overview:
 * Selected and utilized metrics such as ARPU, ARPPU, and Conversion Rate (CR) to measure and compare the performance of two user groups.  
 
 * Verified the statistical significance of differences in the chosen metrics between the groups using the Bootstrap and other methods, providing reliable grounds for decision-making and determining the optimal set of offers. 
+
+Dataset is not provided 
